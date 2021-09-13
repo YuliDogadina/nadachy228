@@ -1,4 +1,4 @@
-package ru.list.real_pcy;
+package ru.yandex.zebjuliara;
 
 import java.util.Scanner;
 
